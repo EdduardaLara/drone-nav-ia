@@ -1,14 +1,3 @@
-#instalar bibliotecas necessarias:
-
-c:/Users/medua/Downloads/ic/.venv/Scripts/python.exe -m pip install tensorflow scikit-learn
-
-.\.venv\Scripts\activate
-pip install Pillow
-
-
-#saber a memoria (apagar o arquivo criado em texto quando for gerar novamente mprofile...): 
-mprof run ic2.0.py
-mprof peak
-
-mprof run test
-mprof peak
+tensorflow
+numpy
+pillow
