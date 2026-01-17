@@ -1,6 +1,9 @@
 fastapi
 uvicorn
-tensorflow-cpu==2.20.0
+tensorflow==2.20.0
 numpy
 pillow
+pandas
+matplotlib
 python-multipart
+exifread
